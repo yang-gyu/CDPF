@@ -333,7 +333,10 @@
     height: 667px;
     margin: 113px auto 0;
     display: flex;
-    
+}
+
+.omg{
+    margin-top: 30px;
 }
 
 .con1_1{
@@ -344,7 +347,7 @@
 
 .con1_1 img{
     width: 1100px;
-    height: 439px;
+    height: 391px;
 }
 
 .con1_2{
@@ -355,7 +358,7 @@
 
 .con1_2 img{
     width: 1100px;
-    height: 399px;
+    height: 356px;
 }
 
 .con1_3{
@@ -713,7 +716,8 @@
 
 .con3 img{
     width: 552px;
-    height: 201px;
+    height: 144px;
+    margin-top: 14px;
     margin-left: 274px;
 }
 
