@@ -22,6 +22,7 @@
     width: 374px;
     height: 1904px;
     margin: 0 auto;
+    overflow: hidden;
 }
 
 .main_m{
